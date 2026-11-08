@@ -1,0 +1,11 @@
+{
+  "org": "zenml-io",
+  "repo": "zenml-projects",
+  "versions": [
+    {
+      "commit": "544862bd165982fb40d23d44bae7b4108aed6975",
+      "tag": "",
+      "parsed_at": "2026-11-08T05:35:24.555348+00:00"
+    }
+  ]
+}
